@@ -1,5 +1,5 @@
-# kumano_pamphlet2021_html
-熊野寮 2021年入寮パンフレット
+# kumano_pamphlet2023_html
+熊野寮 2023年入寮パンフレット
 
 # Serve files on local machine
 To run a server, you need to install `http-server` by following command.
